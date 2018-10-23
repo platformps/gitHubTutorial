@@ -74,7 +74,7 @@ We just pushed our first commit to Github! Congrats that is awesome. If you find
 
 Let's double check the website to see how our README.md looks. And WahhLahh!
 
-<img alt="updated screenshot of readme" src="images/firstDraftOfRepo.png" width="300">
+<img alt="updated screenshot of readme" src="images/firstDraftRepo.png" width="300">
 
 Git gets more complicated when working with teams, with multiple people committing to same project, and it is important to talk to your team members to ensure you aren't screwing up a project unintentionally. Thankfully with Github, you can always look at past versions of your project when something goes wrong :)
 
