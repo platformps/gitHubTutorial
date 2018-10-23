@@ -19,7 +19,7 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 To test if Git and GitHub is set up correctly, please open your Terminal(Mac) or Command Prompt(Windows). Please type: git
 
-If you get an error that says something along the lines of "command not found" something went wrong and we need to fix your set up. Feel free to Google it, because chances are you will find 1000 other developer's talking about your exact problem and potential solutions.
+If you get an error that says something along the lines of "command not found" something went wrong and we need to fix your set up. Feel free to Google it, because chances are you will find 1000 other developer's talking about your exact problem and potential solutions. If the problem persists, please email your instructor they will be happy to assist. 
 
 If you were able to create your account and set up your environment successfully please proceed to the next section.
 
