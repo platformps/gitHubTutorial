@@ -37,7 +37,7 @@ If you were able to create your account and set up your environment successfully
 
 <img alt="image of mac terminal with commands" src="images/screenshotOfTerminal.png" width="300">
 
-When you boot up your terminal. It opens up in the root directory. But I would prefer to save my project on my desktop not somewhere in the root of my computer. To see the subdirectories and files of your current folder type: ls
+Feel free to open up this image in a new tab because I'm going to continue referencing it in the next few paragraphs. When you boot up your terminal. It opens up in the root directory. But I would prefer to save my project on my desktop not somewhere in the root of my computer. To see the subdirectories and files of your current folder type: ls
 and click enter.
 
 cd desktop - This command opens my desktop folder.
@@ -58,6 +58,28 @@ atom . - This command opens up my current directory in Atom (Atom is great free 
 
 Now that Atom opened, I am going to write some text in my README.md file. You can write plain old text in markdown. You can also make really fancy documents. Here is a helpful markdown tutorial: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-You can use markdown to make your repo more professional looking, provide instructions for running or cloning your project to potential viewers, or simply tell potential employers what your project is all about.
+You can use markdown to make your repo more professional looking, provide instructions for running or cloning your project to potential viewers, or tell potential employers/users what your project is all about.
 
 <img alt="screenshot of text in my atom editor" src="images/firstDraftOfCode.png" width="300">
+
+Now that we have some text inside of our README.md, lets try git this up on our Github page!
+
+git add --all - Git says about git add, "This command updates the index using the current content found in the working tree, to prepare the content staged for the next commit." I think of git add --all as a command to really stuff everything in your local git repo.
+
+git commit -m "this is where you describe what changes your made recently in your project. An appropriate title might be, added a readme with text in it" - This command basically provides the title to edition to your repo that you are about to finalize.
+
+git push --all -Git says about git push, "Updates remote refs using local refs, while sending objects necessary to complete the given refs." I think of the git push command as the command that actually pushes your code from your local repo to the Github.com repo living in the cloud. If you go to Github.com, your repo should now be updated with your new code (Refresh the page if need be). If this is your first time trying to push something from your computer, your terminal will likely ask you to sign in here. If something went wrong, in your terminal, you will see a bunch of errors :(
+
+We just pushed our first commit to Github! Congrats that is awesome. If you find yourself forgetting git commands and processes, feel free to Google it because you are not the only one that has ever been confused by working with Git and Github. After continuing to work on your project, you only have to repeat the: git add --all, git commit -m "your custom message which should change each commit", and git push --all
+
+Let's double check the website to see how our README.md looks. And WahhLahh!
+
+<img alt="updated screenshot of readme" src="images/firstDraftOfRepo.png" width="300">
+
+Git gets more complicated when working with teams, with multiple people committing to same project, and it is important to talk to your team members to ensure you aren't screwing up a project unintentionally. Thankfully with Github, you can always look at past versions of your project when something goes wrong :)
+
+You should commit early and often. I committed a few times while writing this README.md file. If someone sits on your laptop and breaks your laptop halfway through coding a project, you should be upset because your laptop is broken, but thankfully you committed before walking away from your laptop so you don't have to be upset about losing any important project changes that you just coded.
+
+Now for some blessed internet humor:
+
+<img alt="memes give me hope for humanity" src="images/gitMeme.png" width="300">
