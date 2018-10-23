@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-To set up Git and GitHub please attempt to follow these helpful tutorials. If you have trouble, feel free to message your instructor for assistance:
+To set up Git and GitHub please attempt to follow these helpful tutorials.
 
 ## GitHub Official Helpful Tutorials
 
@@ -19,7 +19,7 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 To test if Git and GitHub is set up correctly, please open your Terminal(Mac) or Command Prompt(Windows). Please type: git
 
-If you get an error that says something along the lines of "command not found" something wrong and we need to fix your set up. Feel free to Google it, because chances are you will find 1000 other developer's potential solutions how they solved your exact problem.
+If you get an error that says something along the lines of "command not found" something went wrong and we need to fix your set up. Feel free to Google it, because chances are you will find 1000 other developer's talking about your exact problem and potential solutions.
 
 If you were able to create your account and set up your environment successfully please proceed to the next section.
 
@@ -27,15 +27,15 @@ If you were able to create your account and set up your environment successfully
 
 1. Please click the Start A Project button on the GitHub homepage:
 
-<img alt="github home page screenshot" src="images/startAproject.png" width="300">
+<img alt="github home page screenshot" src="images/startAproject.png" width="500">
 
 2. I named my repo gitHubTutorial, I click create, and that brings me to this screen:
 
-<img alt="empty repo screenshot" src="images/emptyRepoScreen.png" width="300">
+<img alt="empty repo screenshot" src="images/emptyRepoScreen.png" width="500">
 
 3. I'm on a Mac, so I am going to open up my terminal (Windows please open your Command Prompt). Mac's Terminal uses Bash and Unix by default and Windows doesn't so we will have some slightly different commands depending on your OS (Operating System). Here is a screenshot of my terminal which will be followed by an explanation of each line.
 
-<img alt="image of mac terminal with commands" src="images/screenshotOfTerminal.png" width="300">
+<img alt="image of mac terminal with commands" src="images/screenshotOfTerminal.png" width="500">
 
 Feel free to open up this image in a new tab because I'm going to continue referencing it in the next few paragraphs. When you boot up your terminal. It opens up in the root directory. But I would prefer to save my project on my desktop not somewhere in the root of my computer. To see the subdirectories and files of your current folder type: ls
 and click enter.
@@ -60,7 +60,7 @@ Now that Atom opened, I am going to write some text in my README.md file. You ca
 
 You can use markdown to make your repo more professional looking, provide instructions for running or cloning your project to potential viewers, or tell potential employers/users what your project is all about.
 
-<img alt="screenshot of text in my atom editor" src="images/firstDraftOfCode.png" width="300">
+<img alt="screenshot of text in my atom editor" src="images/firstDraftOfCode.png" width="500">
 
 Now that we have some text inside of our README.md, lets try git this up on our Github page!
 
@@ -74,7 +74,7 @@ We just pushed our first commit to Github! Congrats that is awesome. If you find
 
 Let's double check the website to see how our README.md looks. And WahhLahh!
 
-<img alt="updated screenshot of readme" src="images/firstDraftRepo.png" width="300">
+<img alt="updated screenshot of readme" src="images/firstDraftRepo.png" width="500">
 
 Git gets more complicated when working with teams, with multiple people committing to same project, and it is important to talk to your team members to ensure you aren't screwing up a project unintentionally. Thankfully with Github, you can always look at past versions of your project when something goes wrong :)
 
@@ -82,4 +82,4 @@ You should commit early and often. I committed a few times while writing this RE
 
 Now for some blessed internet humor:
 
-<img alt="memes give me hope for humanity" src="images/gitMeme.png" width="300">
+<img alt="memes give me hope for humanity" src="images/gitMeme.png" width="500">
