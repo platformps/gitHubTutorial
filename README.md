@@ -1,5 +1,7 @@
 # GitHub Tutorial
 
+Submission for first Github -- Git assignment from Ghassan Nasr
+
 To set up Git and GitHub please attempt to follow these helpful tutorials.
 
 ## GitHub Official Helpful Tutorials
