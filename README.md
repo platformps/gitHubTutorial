@@ -1,3 +1,6 @@
+Laura Godinez Edit for git push demo 
+
+
 # GitHub Tutorial
 
 To set up Git and GitHub please attempt to follow these helpful tutorials.
